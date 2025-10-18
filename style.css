@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgba(0, 83, 139, 0.74);
+}
+h1{
+    color: blue;
+    font-size: 55px;
+}
+footer p{
+  background-color: chartreuse;  
+}
+nav a{
+    text-decoration:none;
+    background-color: rgba(25, 25, 204, 0.788);
+    color: aliceblue;
+    border: 3px solid rgba(25, 25, 204, 0.788);
+}
+
+nav{
+    margin: 40px;
+}
+
+.product{
+    background-color: white;
+    color: blue;
+}
